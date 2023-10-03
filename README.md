@@ -45,4 +45,6 @@ Isso inclui o gerenciamento de arquivos, pastas, upload, download, exclusão, re
 
 ##
 
-# Imagens do projeto:
+# Imagem do projeto:
+
+![image](https://github.com/Jose-Capucho/DROPBOX_CLONE/assets/97485966/643f3f7e-d1bc-48ca-8126-9061fec6d0c6)
