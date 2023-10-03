@@ -1,10 +1,9 @@
 {
   "name": "curso-javascript-projeto-dropbox-clone",
-  "homepage": "https://github.com/hcodebr/curso-javascript-projeto-dropbox-clone",
   "authors": [
-    "Hcode Treinamento"
+    "José Antônio"
   ],
-  "description": "Projeto desenvolvido no Curso Completo de JavaScript da Hcode",
+  "description": "Projeto dropbox",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
